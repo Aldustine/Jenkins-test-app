@@ -1,0 +1,14 @@
+/home/aldus/dotnetProj/Jenkins-test-app/bin/Debug/netcoreapp2.2/Jenkins-test-app.deps.json
+/home/aldus/dotnetProj/Jenkins-test-app/bin/Debug/netcoreapp2.2/Jenkins-test-app.runtimeconfig.json
+/home/aldus/dotnetProj/Jenkins-test-app/bin/Debug/netcoreapp2.2/Jenkins-test-app.runtimeconfig.dev.json
+/home/aldus/dotnetProj/Jenkins-test-app/bin/Debug/netcoreapp2.2/Jenkins-test-app.dll
+/home/aldus/dotnetProj/Jenkins-test-app/bin/Debug/netcoreapp2.2/Jenkins-test-app.pdb
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.csprojAssemblyReference.cache
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.csproj.CoreCompileInputs.cache
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.RazorAssemblyInfo.cache
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.RazorAssemblyInfo.cs
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.AssemblyInfoInputs.cache
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.AssemblyInfo.cs
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.RazorTargetAssemblyInfo.cache
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.dll
+/home/aldus/dotnetProj/Jenkins-test-app/obj/Debug/netcoreapp2.2/Jenkins-test-app.pdb
